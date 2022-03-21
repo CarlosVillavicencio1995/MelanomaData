@@ -19,3 +19,38 @@ El aspecto fuerte que ISIC nos ofrece es la cantidad de imágenes que posee, ade
 
 # Conclucion 
 Es necesario la aplicación de un sistema que nos permita identificar a tiempo la enfermedad, ya que este juega un papel clave dentro de un posible tratamiento del cáncer de piel, esto se debe a que el melanoma no es el cáncer de piel más común pero sí el más letal, además nos podría ayudar  con la  falta de estudios dirigidos a los casos que existen dentro de la ciudad de Loja, ya que esto no se evidencia en estadísticas significativas para la toma efectiva de decisiones que ayuden con el cuidado de la piel y la salud de las personas.
+
+# Bibliografia 
+[1] J. M. Lewin and J. A. Carucci, “Advances in the management of basal cell carcinoma,” 1000.
+
+[2] P. C. Gameros and J. E. T ́ellez, “El c ́ancer de piel, un problema actual,” 5
+
+[3] “Vista de estudio observacional, pacientes con diagn ́ostico y tratamiento de melanoma en el instituto oncol ́ogico solca, guayaquil. — oncolog ́ıa
+(ecuador).”
+
+[4] “Vista de melanomas nasosinusales.”
+
+[5]  ́Alvaro Enrique Acosta, E. Fierro, V. E. Vel ́asquez, and X. Rueda, “Me-lanoma: patog ́enesis, cl ́ınica e histopatolog ́ıa melanoma: pathogenesis,
+clinic and histopathology,” Rev Asoc Col Dermatol, vol. 17, p. 108, 2009.
+
+[6] A. M. Barbecho Mass ́on and J. A. Guananga Chuqui, “Caracterizaci ́on del c ́ancer de piel de cara y cuero cabelludo. Hospital Instituto Ecuato-
+riano de Seguridad Social. Riobamba, 2017- 2020,” dec 2021.
+
+[7] P. ́andez Bl ́azquez@ and A. J. Moreno, “Detecci ́on del c ́ancer de piel mediante t ́ecnicas de visi ́on artificial,” oct 2017.
+
+[8] “La incidencia de c ́ancer de piel es mayor en ciudades de la Sierra - El Comercio.”
+
+[9] “El Tel ́egrafo - Quito, Loja y Cuenca tienen mayor n ́umero de casos de c ́ancer de piel.”
+
+[10] “INFORME DE LABORES SOLCA,” 2016.
+
+[11] “Isic archive.”
+
+[12] R. A. Villanueva Alarc ́on, “Sistema inteligente basado en redes neurona- les para la identificaci ́on de c ́ancer de piel de tipo melanoma en im ́agenes
+
+de lesiones cut ́aneas,” Repositorio de Tesis - UNMSM, 2021.
+
+[13] J. J. Rangel Cortes, “Sistema para pre-diagnosticar el c ́ancer de piel tipo melanoma,” dec 2019.
+
+[14] C. Poma, J. Miguel, . De, L. Cruz Dominguez, and E. Yanira, “Modelo tecnol ́ogico para el soporte al diagn ́ostico de lesiones cut ́aneas del tipo
+melanoma usando reconocimiento de im ́agenes,” Universidad Peruana de Ciencias Aplicadas (UPC), may 2021.
