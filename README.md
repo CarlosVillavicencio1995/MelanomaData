@@ -1,7 +1,9 @@
-# Proyectos Informaticos II
+# Proyectos Informáticos II
 # Autor
 Carlos Alejandro Villavicencio 
-# Introduccion
+# Correo 
+cavillavicenciot@unl.edu.ec
+# Introducción
 
 El cuidado de la piel para él ser humano hoy en día, es algo primordial ya que el cáncer de piel es una de enfermedades que ocupan los puestos principales en estadísticas de los tipos de cáncer que afectan a las personas, y es primordial una prevención y un diagnóstico oportuno para evitar que los posibles síntomas conlleven a la muerte de las personas. Para ello es necesario conocer los tipos de cáncer de piel los cuales son: Carcinoma basocelular, Carcinoma espinocelular o epidermoide, Melanoma maligno, Adenocarcinoma de glándulas sebáceas, Sarcomas y linfomas, además las partes del cuerpo donde es más habitual que se desarrollen son: pecho, espalda, piernas, orejas, cuello, brazos, cabeza, abdomen y rostro..Siendo los principales factores de riesgo la edad, raza, la exposición prolongada sin protección al sol y cámaras de bronceados. Debido a esto se plantea la utilización de la Inteligencia Artificial para realizar un sistema informático el cual permita determinar un pre-diagnóstico que sea rápido, confiable y capaz de brindar una segunda opinión a los estudiantes de medicina de la Universidad Nacional de Loja.
 
@@ -17,10 +19,10 @@ En los últimos años, se ha producido un aumento de los casos de este tipo de c
 La base de datos que se utilizará para la etapa de entrenamiento de la red neuronal es la ISIC, contiene imágenes de diferentes tipos de enfermedades de la piel y, entre ellas, se puede encontrar enfermedades benignas y cancerígenas.
 El aspecto fuerte que ISIC nos ofrece es la cantidad de imágenes que posee, además estas imágenes se encuentran clasificadas tanto en melanomas de benignos como malignos, otra de los beneficios que nos ofrece a comparación de las otras bases de datos es que es acceso gratuito por lo que es ideal para poder desarrollar nuestro proyecto.
 
-# Conclucion 
+# Conclusión 
 Es necesario la aplicación de un sistema que nos permita identificar a tiempo la enfermedad, ya que este juega un papel clave dentro de un posible tratamiento del cáncer de piel, esto se debe a que el melanoma no es el cáncer de piel más común pero sí el más letal, además nos podría ayudar  con la  falta de estudios dirigidos a los casos que existen dentro de la ciudad de Loja, ya que esto no se evidencia en estadísticas significativas para la toma efectiva de decisiones que ayuden con el cuidado de la piel y la salud de las personas.
 
-# Bibliografia 
+# Bibliografía 
 [1] J. M. Lewin and J. A. Carucci, “Advances in the management of basal cell carcinoma,” 1000.
 
 [2] P. C. Gameros and J. E. T ́ellez, “El c ́ancer de piel, un problema actual,” 5
@@ -54,3 +56,5 @@ de lesiones cut ́aneas,” Repositorio de Tesis - UNMSM, 2021.
 
 [14] C. Poma, J. Miguel, . De, L. Cruz Dominguez, and E. Yanira, “Modelo tecnol ́ogico para el soporte al diagn ́ostico de lesiones cut ́aneas del tipo
 melanoma usando reconocimiento de im ́agenes,” Universidad Peruana de Ciencias Aplicadas (UPC), may 2021.
+
+
